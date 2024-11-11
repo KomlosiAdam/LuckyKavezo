@@ -7,6 +7,8 @@ body{
 nav{
     background-color: #1f5b25;
     padding: 15px;
+    position: fixed;
+    width: 100%;
 }
 
 nav a {
@@ -21,7 +23,7 @@ nav a:hover{
 }
 
 nav a:first-child{
-    font-size: 1.5;
+    font-size: 150%;
 }
 
 .banner{
@@ -30,4 +32,5 @@ nav a:first-child{
     background-size: cover;
     
     height: 200px;
+    
 }
