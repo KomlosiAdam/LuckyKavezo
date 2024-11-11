@@ -7,3 +7,8 @@
 
 **Kávék** oldal
 _Sütemények oldal_
+
+**Csapattagok:**
+1. Komlósi Ádám
+2. Schlégl Krisztián
+3. Konrád János Levente
