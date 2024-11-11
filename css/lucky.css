@@ -1,6 +1,7 @@
 body{
     background-color: #fbefbd;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
 
 nav{
@@ -11,6 +12,7 @@ nav{
 nav a {
     color: #fff;
     margin: 15px;
+    text-decoration: none;
 }
 
 nav a:hover{
