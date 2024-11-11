@@ -23,3 +23,11 @@ nav a:hover{
 nav a:first-child{
     font-size: 1.5;
 }
+
+.banner{
+    background-image: url("../images/cakes/cookies.jpeg");
+    background-position: center center;
+    background-size: cover;
+    
+    height: 200px;
+}
