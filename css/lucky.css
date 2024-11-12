@@ -37,7 +37,7 @@ nav a:first-child{
 
 
 .suti, .kave{
-    border: #1f5b25 2px solid;
+    border: #1f5b25 3px solid;
     background-color: #fff;
     width: fit-content;
     margin: 10px;
@@ -46,6 +46,7 @@ nav a:first-child{
 
 .suti img, .kave img{
     width: 450px;
+    height: 200px;
 }
 
 .suti h2, .kave h2{
