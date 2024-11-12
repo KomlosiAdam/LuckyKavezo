@@ -34,3 +34,20 @@ nav a:first-child{
     height: 400px;
     
 }
+
+
+.suti, .kave{
+    border: #1f5b25 2px solid;
+    background-color: #fff;
+    width: fit-content;
+    margin: 10px;
+    color: #1f5b25;
+}
+
+.suti img, .kave img{
+    width: 450px;
+}
+
+.suti h2, .kave h2{
+    text-align: center;
+}
